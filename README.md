@@ -4,6 +4,7 @@
 ### 자료구조
 [회전하는 큐](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/1021.cpp) - **1021** <br>
 [k번째 최단경로](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/1854.cpp) - **1854** <br>
+[슬라임 합치기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/14241.cpp) - **14241** <br>
 
 
 ### 그래프
