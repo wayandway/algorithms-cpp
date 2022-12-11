@@ -6,7 +6,7 @@
 [k번째 최단경로](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/1854.cpp) - **1854** <br>
 [슬라임 합치기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/14241.cpp) - **14241** <br>
 [전생했더니 슬라임 연구자였던 것에 대하여(Hard)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/14698.cpp) - **14698** <br>
-
+[나는 기말고사형 인간이야](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/23254.cpp) - **23254** <br>
 
 ### 그래프
 [트리의 부모 찾기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/11725.cpp) - **11725** <br>
