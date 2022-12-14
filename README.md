@@ -17,5 +17,5 @@
 
 ## 선형대수학
 [XOR Maximization](https://github.com/wayandway/algorithms-cpp/blob/master/Linear-Algebra.11191cpp) - **11191** <br>
-
-
+[행렬 곱셈](https://github.com/wayandway/algorithms-cpp/blob/master/Linear-Algebra.2740cpp) - **2740** <br>
+[행렬 제곱](https://github.com/wayandway/algorithms-cpp/blob/master/Linear-Algebra.10830cpp) - **10830** <br>
