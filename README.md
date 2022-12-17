@@ -15,6 +15,8 @@
 [경로 찾기](https://github.com/wayandway/algorithms-cpp/blob/master/Graph/11403.cpp) - **11403** <br>
 
 ### 그래프 탐색
+[연결요소의 개수-BFS](https://github.com/wayandway/algorithms-cpp/blob/master/Graph/11724_BFS.cpp) - **11724-BFS** <br>
+[연결요소의 개수-DFS](https://github.com/wayandway/algorithms-cpp/blob/master/Graph/11724_DFS.cpp) - **11724-DFS** <br>
 [트리의 부모 찾기](https://github.com/wayandway/algorithms-cpp/blob/master/Graph/11725.cpp) - **11725** <br>
 [미친 로봇](https://github.com/wayandway/algorithms-cpp/blob/master/Graph/1405.cpp) - **1405** <br>
 
