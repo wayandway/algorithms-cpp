@@ -11,8 +11,6 @@
 [전생했더니 슬라임 연구자였던 것에 대하여(Hard)](https://github.com/wayandway/algorithms-cpp/blob/master/Data-Structures/14698.cpp) - **14698** <br>
 [나는 기말고사형 인간이야](https://github.com/wayandway/algorithms-cpp/blob/master/Data-Structures/23254.cpp) - **23254** <br>
 
-
-
 ### 그래프 이론
 [최소비용 구하기](https://github.com/wayandway/algorithms-cpp/blob/master/Graph/1916.cpp) - **1916** <br>
 [경로 찾기](https://github.com/wayandway/algorithms-cpp/blob/master/Graph/11403.cpp) - **11403** <br>
@@ -24,6 +22,10 @@
 [연결요소의 개수-BFS](https://github.com/wayandway/algorithms-cpp/blob/master/Graph/11724_BFS.cpp) - **11724-BFS** <br>
 [연결요소의 개수-DFS](https://github.com/wayandway/algorithms-cpp/blob/master/Graph/11724_DFS.cpp) - **11724-DFS** <br>
 [트리의 부모 찾기](https://github.com/wayandway/algorithms-cpp/blob/master/Graph/11725.cpp) - **11725** <br>
+
+### 그리디 알고리즘
+[잃어버린 괄호](https://github.com/wayandway/algorithms-cpp/blob/master/Greedy/1541.cpp) - **1541** <br>
+
 
 ### 선형대수학
 [행렬 곱셈](https://github.com/wayandway/algorithms-cpp/blob/master/Linear-Algebra/2740.cpp) - **2740** <br>
