@@ -36,3 +36,5 @@
 ### 정렬
 [회의실 배정](https://github.com/wayandway/algorithms-cpp/blob/master/Sorting/1931.cpp) - **1931** <br>
 [나이순 정렬](https://github.com/wayandway/algorithms-cpp/blob/master/Sorting/10814.cpp) - **10814** <br>
+[숫자 카드](https://github.com/wayandway/algorithms-cpp/blob/master/Sorting/10815.cpp) - **10815** <br>
+[숫자 카드2](https://github.com/wayandway/algorithms-cpp/blob/master/Sorting/10816.cpp) - **10816** <br>
