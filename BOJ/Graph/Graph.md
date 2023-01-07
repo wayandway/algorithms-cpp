@@ -1,4 +1,5 @@
 # 그래프
+[최소 스패닝 트리](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/1197.cpp) - **1197** <br>
 [미친 로봇](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/1405.cpp) - **1405** <br>
 [최소비용 구하기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/1916.cpp) - **1916** <br>
 [영역 구하기(BFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/2583.cpp) - **2583** <br>
