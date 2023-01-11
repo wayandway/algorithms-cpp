@@ -10,3 +10,4 @@
 [연결요소의 개수(DFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/11724_DFS.cpp) - **11724(DFS)** <br>
 [트리의 부모 찾기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/11725.cpp) - **11725** <br>
 [최소비용 구하기2](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/11779.cpp) - **11779** <br>
+[인구 이동](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/16234.cpp) - **16234** <br>
