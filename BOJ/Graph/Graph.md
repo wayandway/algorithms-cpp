@@ -3,6 +3,7 @@
 [미친 로봇](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/1405.cpp) - **1405** <br>
 [최소비용 구하기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/1916.cpp) - **1916** <br>
 [영역 구하기(BFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/2583.cpp) - **2583** <br>
+[벽 부수고 이동하기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/2206.cpp) - **2206** <br>
 [바이러스](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/2606.cpp) - **2606** <br>
 [섬의 개수(BFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/4963_BFS.cpp) - **4963(BFS)** <br>
 [섬의 개수(DFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/4963_DFS.cpp) - **4963(DFS)** <br>
