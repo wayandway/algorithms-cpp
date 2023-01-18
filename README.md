@@ -2,6 +2,7 @@
 
 ### SWEA
 - [D2](https://github.com/wayandway/algorithms-cpp/blob/master/SWEA/D2/D2.md)
+- [D4](https://github.com/wayandway/algorithms-cpp/blob/master/SWEA/D4/D4.md)
 
 ### BOJ
 - [자료구조](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/Data-Structures.md)
