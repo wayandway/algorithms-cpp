@@ -9,6 +9,7 @@
 [섬의 개수(DFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/4963_DFS.cpp) - **4963(DFS)** <br>
 [경로 찾기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/11403.cpp) - **11403** <br>
 [플로이드](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/11404.cpp) - **11404** <br>
+[Puyo Puyo](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/11559.cpp) - **11559** <br>
 [연결요소의 개수(BFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/11724_BFS.cpp) - **11724(BFS)** <br>
 [연결요소의 개수(DFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/11724_DFS.cpp) - **11724(DFS)** <br>
 [트리의 부모 찾기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/11725.cpp) - **11725** <br>
