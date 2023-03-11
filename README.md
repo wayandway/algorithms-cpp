@@ -14,6 +14,7 @@
 - [분할 정복](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DivideAndConquer/DivideAndConquer.md)
 - [배낭문제](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Knapsack/Knapsack.md)
 - [그리디 알고리즘](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/Greedy.md)
+- [브루투포스 알고리즘](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Bruteforcing/Bruteforcing.md)
 - [선형대수학](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Linear-Algebra/Linear-Algebra.md)
 - [기하학](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Geometry/Geometry.md)
 - [정렬](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Sorting/Sorting.md)
