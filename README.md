@@ -8,6 +8,7 @@
 
 ### BOJ
 - [자료구조](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/Data-Structures.md)
+- [수학](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Mathematics/Mathematics.md)
 - [트리](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Tree/Tree.md)
 - [그래프](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/Graph.md)
 - [동적 계획법](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/DP.md)
