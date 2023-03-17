@@ -9,6 +9,7 @@
 [벽 부수고 이동하기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/2206.cpp) - **2206** <br>
 [바이러스](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/2606.cpp) - **2606** <br>
 [치즈](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/2638.cpp) - **2638** <br>
+[단지번호 붙이기(BFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/2667.cpp) - **2667** <br>
 [섬의 개수(BFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/4963_BFS.cpp) - **4963(BFS)** <br>
 [섬의 개수(DFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/4963_DFS.cpp) - **4963(DFS)** <br>
 [경로 찾기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/11403.cpp) - **11403** <br>
