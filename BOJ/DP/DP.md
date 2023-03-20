@@ -8,3 +8,4 @@
 [이항 계수2](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/11051.cpp) - **11051** <br>
 [2xn 타일링](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/11726.cpp) - **11726** <br>
 [1로 만들기 2](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/12852.cpp) - **12852** <br>
+[퇴사](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/14501.cpp) - **14501** <br>
