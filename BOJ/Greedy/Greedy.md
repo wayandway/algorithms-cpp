@@ -10,3 +10,4 @@
 [책 나눠주기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/9576.cpp) - **9576** <br>
 [30](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/10610.cpp) - **10610** <br>
 [ATM](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/11399.cpp) - **11399** <br>
+[A->B](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/16953.cpp) - **16953** <br>
