@@ -1,5 +1,6 @@
 # 동적 계획법
 [ARM Craft](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1005.cpp) - **1005** <br>
+[내리막길](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1520.cpp) - **1520** <br>
 [제곱수의 합](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1699.cpp) - **1699** <br>
 [연속합](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1912.cpp) - **1912** <br>
 [계단 오르기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2579.cpp) - **2579** <br>
