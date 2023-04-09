@@ -23,4 +23,5 @@
 [최소비용 구하기2](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/11779.cpp) - **11779** <br>
 [트리와 쿼리](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/15681.cpp) - **15681** <br>
 [인구 이동](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/16234.cpp) - **16234** <br>
+[연구소 3](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/17142.cpp) - **17142** <br>
 [다리 만들기2(DFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/17472.cpp) - **17472** <br>
