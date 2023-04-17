@@ -4,6 +4,7 @@
 [내리막길](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1520.cpp) - **1520** <br>
 [제곱수의 합](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1699.cpp) - **1699** <br>
 [연속합](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1912.cpp) - **1912** <br>
+[로봇 조종하기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2169.cpp) - **2169** <br>
 [계단 오르기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2579.cpp) - **2579** <br>
 [양팔 저울](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2629.cpp) - **2629** <br>
 [부녀회장이 될테야](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2775.cpp) - **2775** <br>
