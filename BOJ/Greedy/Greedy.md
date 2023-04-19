@@ -1,5 +1,6 @@
 # 그리디 알고리즘
 [물병](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/1052.cpp) - **1052** <br>
+[소트](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/1083.cpp) - **1083** <br>
 [NMK](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/1201.cpp) - **1201** <br>
 [잃어버린 괄호](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/1541.cpp) - **1541** <br>
 [카드 정렬(우선순위 큐)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/1715_PQUE.cpp) - **1715(PQUE)** <br>
