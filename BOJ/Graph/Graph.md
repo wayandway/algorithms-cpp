@@ -1,5 +1,6 @@
 # 그래프
 [최소 스패닝 트리](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/1197.cpp) - **1197** <br>
+[효율적인 해킹](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/1325.cpp) - **1325** <br>
 [미친 로봇](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/1405.cpp) - **1405** <br>
 [이분그래프(BFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/1707_BFS.cpp) - **1707(BFS)** <br>
 [이분그래프(DFS)](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/1707_DFS.cpp) - **1707(DFS)** <br>
