@@ -1,6 +1,7 @@
 # 자료구조
 [회전하는 큐](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/1021.cpp) - **1021** <br>
 [버블 소트](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/1517.cpp) - **1517** <br>
+[집합의 표현](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/1717.cpp) - **1717** <br>
 [k번째 최단경로](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/1854.cpp) - **1854** <br>
 [창고 다각형](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/2304.cpp) - **2304** <br>
 [문자열 폭발](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Data-Structures/9935.cpp) - **9935** <br>
