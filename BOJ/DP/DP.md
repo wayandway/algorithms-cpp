@@ -15,7 +15,9 @@
 [쉬운 계단 수](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/10844.cpp) - **10844** <br>
 [팰린드롬?](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/10942.cpp) - **10942** <br>
 [이항 계수2](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/11051.cpp) - **11051** <br>
+[오르막 수](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/11057.cpp) - **11057** <br>
 [2xn 타일링](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/11726.cpp) - **11726** <br>
 [1로 만들기 2](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/12852.cpp) - **12852** <br>
 [타일 장식물](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/13301.cpp) - **13301** <br>
+[가장 긴 증가하는 부분 수열4](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/14002.cpp) - **14002** <br>
 [퇴사](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/14501.cpp) - **14501** <br>
