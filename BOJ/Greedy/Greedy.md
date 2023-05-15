@@ -9,6 +9,7 @@
 [신입 사원](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/1946.cpp) - **1946** <br>
 [로프](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/2217.cpp) - **2217** <br>
 [설탕 배달](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/2839.cpp) - **2839** <br>
+[롤러코스터](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/2873.cpp) - **2873** <br>
 [책 나눠주기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/9576.cpp) - **9576** <br>
 [30](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/10610.cpp) - **10610** <br>
 [ATM](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Greedy/11399.cpp) - **11399** <br>
