@@ -1,11 +1,13 @@
 # 동적 계획법
 [ARM Craft](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1005.cpp) - **1005** <br>
+[발전소](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1102.cpp) - **1102** <br>
 [게임](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1103.cpp) - **1103** <br>
 [동물원](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1309.cpp) - **1309** <br>
 [게임개발]](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1516.cpp) - **1516** <br>
 [내리막길](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1520.cpp) - **1520** <br>
 [제곱수의 합](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1699.cpp) - **1699** <br>
 [연속합](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1912.cpp) - **1912** <br>
+[우수 마을](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1949.cpp) - **1949** <br>
 [로봇 조종하기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2169.cpp) - **2169** <br>
 [계단 오르기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2579.cpp) - **2579** <br>
 [양팔 저울](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2629.cpp) - **2629** <br>
