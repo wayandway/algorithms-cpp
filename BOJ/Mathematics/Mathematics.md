@@ -8,3 +8,4 @@
 [카잉 달력](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Mathematics/6064.cpp) - **6064** <br>
 [로또](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Mathematics/6603.cpp) - **6603** <br>
 [골드 바흐의 추측](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Mathematics/9020.cpp) - **9020** <br>
+[양념 반 후라이드 반](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Mathematics/16917.cpp) - **16917** <br>
