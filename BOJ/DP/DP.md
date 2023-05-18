@@ -9,6 +9,7 @@
 [연속합](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1912.cpp) - **1912** <br>
 [우수 마을](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1949.cpp) - **1949** <br>
 [로봇 조종하기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2169.cpp) - **2169** <br>
+[트리의 독립집합](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2213.cpp) - **2213** <br>
 [계단 오르기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2579.cpp) - **2579** <br>
 [양팔 저울](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2629.cpp) - **2629** <br>
 [부녀회장이 될테야](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2775.cpp) - **2775** <br>
