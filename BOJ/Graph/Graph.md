@@ -27,6 +27,7 @@
 [숨바꼭질2](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/12851.cpp) - **12851** <br>
 [숨바꼭질3](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/13549.cpp) - **13549** <br>
 [숨바꼭질4](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/13913.cpp) - **13913** <br>
+[QUENTO](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/10429.cpp) - **10429** <br>
 [트리와 쿼리](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/15681.cpp) - **15681** <br>
 [인구 이동](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/16234.cpp) - **16234** <br>
 [연구소 3](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/Graph/17142.cpp) - **17142** <br>
