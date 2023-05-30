@@ -8,6 +8,7 @@
 [제곱수의 합](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1699.cpp) - **1699** <br>
 [연속합](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1912.cpp) - **1912** <br>
 [우수 마을](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/1949.cpp) - **1949** <br>
+[외판원 순회](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2098.cpp) - **2098** <br>
 [로봇 조종하기](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2169.cpp) - **2169** <br>
 [트리의 독립집합](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2213.cpp) - **2213** <br>
 [모둠](https://github.com/wayandway/algorithms-cpp/blob/master/BOJ/DP/2451.cpp) - **2451** <br>
